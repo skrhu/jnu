@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/log.svg</file>
+    <file>images/search.svg</file>
+    <file>images/cam.svg</file>
+    <file>images/file.png</file>
+    <file>images/home.svg</file>
+    <file>images/pic.svg</file>
+    <file>images/image.png</file>
+    <file>images/model.png</file>
+    <file>images/cam.png</file>
+    <file>images/check_no.png</file>
+    <file>images/logo.jpg</file>
+    <file>images/menu.png</file>
+  </qresource>
+</RCC>
